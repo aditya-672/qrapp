@@ -36,6 +36,7 @@ qrapp/
         |-google-services.json
 |-lib
     |-firebase_options.dart
+|-firebase.json
 ```
 
 **Step 4:**
